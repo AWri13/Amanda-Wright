@@ -7,4 +7,9 @@ API Security Fundamentals <href>https://www.credly.com/badges/98cc320d-ffef-4feb
 <br>
 <strong><h3>Projects</h3></strong>
 First HTML Project <href>https://sites.pitt.edu/~acw96/</href> <br>
+Managing file permissons using Linux commands in the Bash shell <br>
+Applying filters to SQL queries <br>
+Installing Kali on my Chromebook <br>
+Oracle VM VirtualBox
+
 
